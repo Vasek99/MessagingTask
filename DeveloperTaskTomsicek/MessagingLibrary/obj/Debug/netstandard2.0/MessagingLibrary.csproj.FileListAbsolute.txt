@@ -1,0 +1,9 @@
+C:\Users\vasek\source\repos\DeveloperTaskTomsicek\MessagingLibrary\bin\Debug\netstandard2.0\MessagingLibrary.deps.json
+C:\Users\vasek\source\repos\DeveloperTaskTomsicek\MessagingLibrary\bin\Debug\netstandard2.0\MessagingLibrary.dll
+C:\Users\vasek\source\repos\DeveloperTaskTomsicek\MessagingLibrary\bin\Debug\netstandard2.0\MessagingLibrary.pdb
+C:\Users\vasek\source\repos\DeveloperTaskTomsicek\MessagingLibrary\obj\Debug\netstandard2.0\MessagingLibrary.csprojAssemblyReference.cache
+C:\Users\vasek\source\repos\DeveloperTaskTomsicek\MessagingLibrary\obj\Debug\netstandard2.0\MessagingLibrary.AssemblyInfoInputs.cache
+C:\Users\vasek\source\repos\DeveloperTaskTomsicek\MessagingLibrary\obj\Debug\netstandard2.0\MessagingLibrary.AssemblyInfo.cs
+C:\Users\vasek\source\repos\DeveloperTaskTomsicek\MessagingLibrary\obj\Debug\netstandard2.0\MessagingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vasek\source\repos\DeveloperTaskTomsicek\MessagingLibrary\obj\Debug\netstandard2.0\MessagingLibrary.dll
+C:\Users\vasek\source\repos\DeveloperTaskTomsicek\MessagingLibrary\obj\Debug\netstandard2.0\MessagingLibrary.pdb
